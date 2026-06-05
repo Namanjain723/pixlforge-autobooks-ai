@@ -174,7 +174,7 @@ PixlForge designs production-grade AI automation for finance, accounting and ope
 
 - 📧 **Email:** [pixlforge.studio03@gmail.com](mailto:pixlforge.studio03@gmail.com)
 - 🌐 **Portfolio:** [pixlforgestudio03.netlify.app](https://pixlforgestudio03.netlify.app/)
-- 💼 **LinkedIn / Connect:** pixlforge.studio03@gmail.com
+- 💼 **LinkedIn / Connect:** (www.linkedin.com/in/naman-jain-a41893266)
 
 > 💬 Want this for your firm? **Message me for a free workflow audit** — I’ll map your current
 > process and recommend exactly which automations to start with.
