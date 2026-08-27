@@ -173,8 +173,9 @@ Full client-deployment guide in **[SETUP.md](SETUP.md)**.
 PixlForge designs production-grade AI automation for finance, accounting and operations teams.
 
 - ðŸ“§ **Email:** [info@pixlforgestudio.in](mailto:info@pixlforgestudio.in)
+- 📬 **Direct:** [namancric18@gmail.com](mailto:namancric18@gmail.com)
 - ðŸŒ **Portfolio:** [pixlforgestudio.in](https://pixlforgestudio.in/)
-- ðŸ’¼ **LinkedIn / Connect:** (www.linkedin.com/in/naman-jain-a41893266)
+- ðŸ’¼ **LinkedIn:** [Naman Jain](https://www.linkedin.com/in/naman-jain-a41893266)
 
 > ðŸ’¬ Want this for your firm? **Message me for a free workflow audit** â€” Iâ€™ll map your current
 > process and recommend exactly which automations to start with.
