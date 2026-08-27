@@ -46,7 +46,7 @@ integrations firms already use — QuickBooks, Xero, Google Sheets, Gmail and Sl
 | 🧾 | **Zero-touch invoice entry** — emailed invoices are read, categorized and filed automatically, with duplicates blocked before they’re paid. |
 | 📈 | **Effortless client reporting** — branded weekly financial reports written by AI and emailed every Monday. |
 | 🚨 | **Always-on fraud & error detection** — nightly anomaly scans catch spikes, new vendors and double-payments. |
-| ðŸ¤ | **Instant client onboarding** — a web form spins up a profile, welcome email, Slack channel and check-in. |
+| 🤝 | **Instant client onboarding** — a web form spins up a profile, welcome email, Slack channel and check-in. |
 | 🧮 | **No more tax-season scramble** — per-client readiness scores flag missing items early. |
 | 🔒 | **Your data stays yours** — self-hosted by default; nothing has to leave the client’s infrastructure. |
 
@@ -73,7 +73,7 @@ integrations firms already use — QuickBooks, Xero, Google Sheets, Gmail and Sl
 
 ---
 
-## ⚙ï¸ The 5 automations
+## ⚙️ The 5 automations
 
 | # | Workflow | What it does |
 |---|----------|--------------|
@@ -93,12 +93,12 @@ Each workflow is a **valid, importable `n8n` JSON** with error-handling lanes an
 - **Duplicate Invoice Neural Detection** — semantic matching catches the *same* invoice re-billed with a slightly different amount or date.
 - **Tax Season Readiness Radar** — per-client quarterly readiness % with the exact missing items flagged.
 - **Smart Vendor Fingerprinting** — learns each client’s known vendors and auto-flags new/unknown ones for approval.
-- **Natural-Language Financial Q&A** — “which clients spiked >20% this month?â€ answered in seconds. No SQL, no pivot tables.
+- **Natural-Language Financial Q&A** — “which clients spiked >20% this month?” answered in seconds. No SQL, no pivot tables.
 - **Multi-Software Auto-Sync** — QuickBooks, Xero, Wave, FreshBooks + Google Sheets. Clients keep the tools they already use.
 
 ---
 
-## ðŸ† Why this is best-in-class
+## 🏆 Why this is best-in-class
 
 - ✅ **Real, not tutorial-grade** — the n8n workflows import and run; the dashboard is a production-quality Streamlit app.
 - ✅ **AI where it matters** — Claude does the reasoning; n8n does the plumbing. Clean separation, production patterns.
@@ -147,7 +147,7 @@ bookkeeping-ai-agent-demo/
 ├── README.md · SETUP.md · .env.example · LICENSE
 ```
 
-## ▶ï¸ Quick start
+## ▶️ Quick start
 
 ```bash
 # 1) sample data
@@ -174,7 +174,7 @@ PixlForge designs production-grade AI automation for finance, accounting and ope
 
 - 📧 **Email:** [info@pixlforgestudio.in](mailto:info@pixlforgestudio.in)
 - 📬 **Direct:** [namancric18@gmail.com](mailto:namancric18@gmail.com)
-- ðŸŒ **Portfolio:** [pixlforgestudio.in](https://pixlforgestudio.in/)
+- 🌐 **Portfolio:** [pixlforgestudio.in](https://pixlforgestudio.in/)
 - 💼 **LinkedIn:** [Naman Jain](https://www.linkedin.com/in/naman-jain-a41893266)
 
 > 💬 Want this for your firm? **Message me for a free workflow audit** — I’ll map your current
