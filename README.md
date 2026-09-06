@@ -26,7 +26,7 @@ Bookkeeping and CPA firms lose **10–20 hours every week** to repetitive manual
 invoices, chasing receipts, writing client updates and eyeballing transactions for errors.
 
 **PixlForge AutoBooks AI** is a fleet of **5 connected automations** that run around the clock.
-[Anthropic **Claude**](https://www.anthropic.com) handles the judgement-heavy steps (extraction,
+[Anthropic **Claude**](https://www.anthropic.com) handles the judgment-heavy steps (extraction,
 classification, anomaly reasoning, report writing) while self-hosted **n8n** orchestrates the
 integrations firms already use - QuickBooks, Xero, Google Sheets, Gmail and Slack.
 
