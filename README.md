@@ -161,7 +161,7 @@ npx n8n start
 ```
 
 For live Claude responses, copy `.env.example` → `.env` and set `ANTHROPIC_API_KEY`.
-Full client-deployment guide in **[SETUP.md](SETUP.md)**.
+The full client-deployment guide (`SETUP.md`) ships with the private production source.
 
 > 🔒 **Note:** This public repository is a **showcase**. The complete, production source is
 > maintained privately and delivered as part of an engagement.
